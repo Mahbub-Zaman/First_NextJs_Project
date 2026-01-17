@@ -1,11 +1,11 @@
-import React from 'react';
+import LoginForm from "../components/form/LoginForm";
 
-const page = () => {
-    return (
-        <div>
-            welcome to login page
-        </div>
-    );
-};
-
-export default page;
+export default function LoginPage() {
+  return (
+    <div>
+      <h1 className="text-3xl font-bold text-center mt-10">Login Page</h1>
+      <p className="text-center mt-4">Please use the form below to log in.</p>
+      <LoginForm />
+    </div>
+  );
+}

@@ -1,9 +1,26 @@
-import Image from "next/image";
+import React from 'react';
+import Hero from './components/home/Hero';
+import Features from './components/home/Features';
+import Products from './components/home/Products';
+import Reviews from './components/home/Reviews';
+import CTA from './components/home/CTA';
+import FAQ from './components/home/FAQ';
+import WhyUs from './components/home/WhyUS';
+import Blog from './components/home/Blog';
 
-export default function Home() {
+const page = () => {
   return (
     <div>
-      <h1>Welcome to the Mechanical Keyboard Store</h1>
+      <Hero />
+      <Features />
+      <Products />
+      <WhyUs />
+      <Reviews />
+      <CTA />
+      <FAQ />
+      <Blog />
     </div>
   );
-}
+};
+
+export default page;

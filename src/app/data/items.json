@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Redragon K552 Mechanical Keyboard",
+    "price": 4200,
+    "brand": "Redragon",
+    "switchType": "Blue Switch",
+    "layout": "TKL (87 Keys)",
+    "description": "Durable mechanical keyboard with blue switches, loud clicky feedback, and compact TKL design.",
+    "image": "https://i.ibb.co/5qm72yd/redragon-k552.webp"
+  },
+  {
+    "id": 2,
+    "name": "Logitech G Pro X",
+    "price": 13500,
+    "brand": "Logitech",
+    "switchType": "GX Blue Clicky",
+    "layout": "TKL",
+    "description": "Professional-grade mechanical keyboard with swappable switches and RGB lighting.",
+    "image": "https://i.ibb.co/HTdbTdpT/design-medium.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Royal Kludge RK61",
+    "price": 5200,
+    "brand": "Royal Kludge",
+    "switchType": "Red Switch",
+    "layout": "60%",
+    "description": "Compact 60% wireless mechanical keyboard with smooth red switches and RGB support.",
+    "image": "https://i.ibb.co/qYM9qwNT/1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Keychron K6",
+    "price": 8900,
+    "brand": "Keychron",
+    "switchType": "Gateron Brown",
+    "layout": "65%",
+    "description": "Hot-swappable wireless mechanical keyboard with aluminum frame and Mac/Windows support.",
+    "image": "https://i.ibb.co/bM8jLk69/b1bec56fbec1d43f008d574c94fe0329-original.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Corsair K95 RGB Platinum",
+    "price": 18500,
+    "brand": "Corsair",
+    "switchType": "Cherry MX Speed",
+    "layout": "Full Size",
+    "description": "Premium full-size mechanical keyboard with dedicated macro keys and dynamic RGB lighting.",
+    "image": "https://i.ibb.co/hFMksGFq/corsair-k95-rgb-platinum-xt-featured.jpg"
+  },
+  {
+    "id": 6,
+    "name": "HyperX Alloy FPS Pro",
+    "price": 7500,
+    "brand": "HyperX",
+    "switchType": "Cherry MX Red",
+    "layout": "TKL",
+    "description": "Solid steel frame keyboard designed for FPS gamers with smooth linear switches.",
+    "image": "https://i.ibb.co/XrMxQvbb/images-17.jpg"
+  }
+]
